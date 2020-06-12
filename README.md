@@ -1,2 +1,2 @@
 # CS-UY_3943
-chazelles-application-to-comp-geom
+Chazelle's fractional cascading algorithm applied to problem in computational geometry. Description with fractional cascading with example.
